@@ -51,7 +51,7 @@ L'administrateur, quant à lui, gère la plateforme en administrant les comptes 
 ### 🧑‍🏫 Interface d'Ajout d'un Enseignant  
 | Ajout d'un Enseignant |
 |----------------------|
-| <img src="images/Interface_d'ajouter_Enseignant.PNG" width="300"> |
+| <img src="images/Interface_d'ajouter_Enseignant.PNG" width="500"> |
 
 ### 🎓 Interface d'Ajout d'un Étudiant  
 | Ajout d'un Étudiant |
