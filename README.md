@@ -94,3 +94,15 @@ L'administrateur, quant à lui, gère la plateforme en administrant les comptes 
 | <img src="images/Interface_des_chapitres.PNG" width="300"> |
 
 ---
+## 📄 Mémoire de Fin d'Études  
+
+Le document suivant est le **mémoire complet** du projet **"Conception et développement d’un site web dynamique de E-Learning"**.  
+Il présente l'ensemble des étapes de conception, développement et mise en œuvre de la plateforme E-Learning pour l'université **Larbi Ben M'hidi Oum El Bouaghi**.  
+
+📖 **Titre :** Conception et développement d’un site web dynamique de E-Learning  
+🎓 **Présenté par :** Krikou Noureddine, Soualem Maamoune, Bouchama Mounir  
+👨‍🏫 **Encadré par :** Dr. Zedairia Abdellah  
+📅 **Année universitaire :** 2020-2021  
+
+📥 **Télécharger le mémoire :**  
+➡️ [Mémoire de fin d’études (PDF)](docs/memoire_finale_E-learning.pdf)
