@@ -56,42 +56,42 @@ L'administrateur, quant à lui, gère la plateforme en administrant les comptes 
 ### 🎓 Interface d'Ajout d'un Étudiant  
 | Ajout d'un Étudiant |
 |----------------------|
-| <img src="images/Interface_d'ajouter_étudiant.PNG" width="300"> |
+| <img src="images/Interface_d'ajouter_étudiant.PNG" width="500"> |
 
 ### 📚 Interface d'Ajout d'un Module  
 | Ajout d'un Module |
 |----------------------|
-| <img src="images/Interface_d'ajouter_module.PNG" width="300"> |
+| <img src="images/Interface_d'ajouter_module.PNG" width="500"> |
 
 ### 🏠 Interface Home Admin  
 | Accueil Admin |
 |----------------------|
-| <img src="images/Interface_de_Home_Admin.PNG" width="300"> |
+| <img src="images/Interface_de_Home_Admin.PNG" width="500"> |
 
 ### 🏠 Interface Home Étudiant  
 | Accueil Étudiant |
 |----------------------|
-| <img src="images/Interface_de_Home_étudiant.PNG" width="300"> |
+| <img src="images/Interface_de_Home_étudiant.PNG" width="500"> |
 
 ### 📋 Interface Liste des Enseignants (Vue Étudiant)  
 | Liste des Enseignants |
 |----------------------|
-| <img src="images/Interface_liste_des_enseignants_dans_étudiant.PNG" width="300"> |
+| <img src="images/Interface_liste_des_enseignants_dans_étudiant.PNG" width="500"> |
 
 ### 📚 Interface Liste des Modules  
 | Liste des Modules |
 |----------------------|
-| <img src="images/Interface_liste_des_modules.PNG" width="300"> |
+| <img src="images/Interface_liste_des_modules.PNG" width="500"> |
 
 ### 🔑 Interface de Connexion  
 | Interface Login |
 |----------------------|
-| <img src="images/Interface_Login.PNG" width="300"> |
+| <img src="images/Interface_Login.PNG" width="500"> |
 
 ### 📖 Interface des Chapitres  
 | Liste des Chapitres |
 |----------------------|
-| <img src="images/Interface_des_chapitres.PNG" width="300"> |
+| <img src="images/Interface_des_chapitres.PNG" width="500"> |
 
 ---
 ## 📄 Mémoire de Fin d'Études  
