@@ -96,9 +96,11 @@ L'administrateur, quant à lui, gère la plateforme en administrant les comptes 
 
 
 ### 📚 Interface Liste des Modules  
+
 | Liste des Modules |
 |----------------------|
 | <img src="images/Interface_liste_des_modules.PNG" width="500"> |
+
 
 ### 📖 Interface des Chapitres  
 
