@@ -98,13 +98,6 @@ L'administrateur, quant à lui, gère la plateforme en administrant les comptes 
 |----------------------|
 | <img src="images/Interface_liste_des_modules.PNG" width="500"> |
 
-### 🔑 Interface de Connexion  
-
-| Interface Login |
-|----------------------|
-| <img src="images/Interface_Login.PNG" width="500"> |
-
-
 ### 📖 Interface des Chapitres  
 
 | Liste des Chapitres |
